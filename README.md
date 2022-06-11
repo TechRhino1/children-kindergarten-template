@@ -1,7 +1,7 @@
 # children-kindergarten-template
 <h2> Features List <h2/>
 
-jQuery Powered <br/>
+<h5> jQuery Powered <br/>
 Responsive Layout<br/>
 Retina Ready<br/>
 Slider Revolution Responsive jQuery Plugin<br/>
@@ -21,4 +21,4 @@ Different Page Templates<br/>
 Documentation Included<br/>
 Valid HTML5 Code<br/>
 Crossbrowser Compatible<br/>
-Clean Design<br/>
+Clean Design <h5/>
