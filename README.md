@@ -1,4 +1,4 @@
-# children-kindergarten-template
+# children-kindergarten 
 <h2> Features List <h2/>
 
 <h5> jQuery Powered <br/>
